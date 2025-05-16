@@ -1,4 +1,4 @@
-### Hi there, I'm Andrey Lock
+### Hi there, I'm Andrey Katasonov
 
 ## 👀 About me 👀
 - 3 years in ML
