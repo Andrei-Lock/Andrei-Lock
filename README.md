@@ -3,7 +3,7 @@
 ## 👀 About me 👀
 - 3 years in ML
 - Winner of the NTO AI olympiad'2024 💪💪💪
-- Programming languages: Python, C++ (a bit)
+- Programming languages: Python, C++
 - Stack of technologies: PyTorch, Numpy, Docker, Scikit-learn, Seaborn, OpenCV, Matplotlib
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
